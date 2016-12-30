@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sanjogs/url-shortner#readme",
   "dependencies": {
     "ejs": "^2.5.5",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "mongodb": "^2.2.16"
   }
 }
