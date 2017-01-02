@@ -2,4 +2,4 @@
 
 DEMO:
 
-https://url-shortner-sanjogs.herokuapp.comg
+https://url-shortner-sanjogs.herokuapp.com
